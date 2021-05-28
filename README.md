@@ -7,10 +7,10 @@
  <h2>Criar vizualizações com os dados obtidos e tratados</h2>
   Aprenderemos como criar vizualizações que nos ajudem a entender e transimitir o entendimento da contaminação na Índia
   
-# Resultados criados
- ## Avanço da COVID-19 na Índia
+<h1>Resultados criados</h1>
+ <h2>Avanço da COVID-19 na Índia<h2>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/confirmed/animation.gif"></img>
- ## COVID-19 informações das cidades
+ <h2>COVID-19 informações das cidades</h2>
   <div>
    <iframe src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/maps/quantity_variables.html">
    </iframe>
