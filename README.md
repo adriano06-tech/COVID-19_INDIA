@@ -9,4 +9,6 @@
   
 # Resultados criados
  ## Avanço da COVID-19 na Índia
-  <img src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/confirmed/animation.gif"></img>
+  <div style="text-align: center;">
+   <img src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/confirmed/animation.gif"></img>
+  </div>
