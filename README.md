@@ -10,7 +10,7 @@
 <h1>Resultados criados</h1>
  <h2>Avanço da COVID-19 na Índia<h2>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/confirmed/animation.gif"></img>
- <h2>COVID-19 informações das cidades</h2>
+ <h2>Contaminação de COVID-19 atualmente na Índia</h2>
   <div>
-   <iframe src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/maps/quantity_variables.html"></iframe>
+   <img src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/current_contamination.jpg"/>
   </div>
