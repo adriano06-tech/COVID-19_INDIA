@@ -14,3 +14,9 @@
   <div>
    <img src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/current_contamination.jpg"/>
   </div>
+ <h2>Média móvel de mortes por COVID-19 na Índia</h2>
+  <div>
+   <img src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/media_movel.png"/> 
+  </div>
+ 
+ 
