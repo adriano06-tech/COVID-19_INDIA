@@ -5,3 +5,8 @@
   Usaremos os <a href="https://www.kaggle.com/sudalairajkumar/covid19-in-india">dados obtidos nesse link</a> para gerar algum entendimento sobre como
   o avanço da COVID-19 no país indiano foi tão rápido
  ## Criar vizualizações com os dados obtidos e tratados
+  Aprenderemos como criar vizualizações que nos ajudem a entender e transimitir o entendimento da contaminação na Índia
+  
+# Resultados criados
+ ## Avanço da COVID-19 na Índia
+  <img src=""></img>
