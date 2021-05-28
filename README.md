@@ -12,3 +12,8 @@
   <div style="text-align: center;">
    <img style="margin: auto;" src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/confirmed/animation.gif"></img>
   </div>
+ ## COVID-19 informações das cidades
+  <div>
+   <iframe src="https://raw.githubusercontent.com/adriano06-tech/COVID-19_INDIA/main/output/maps/quantity_variables.html">
+   </iframe>
+  </div>
